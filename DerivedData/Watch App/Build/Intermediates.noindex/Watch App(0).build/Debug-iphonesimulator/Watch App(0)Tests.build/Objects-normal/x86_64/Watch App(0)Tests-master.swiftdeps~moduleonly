@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "ef894d0ffda053ad0fd8f83abf9bf9b6"
+build_time: [1603012838, 273070000]
+inputs:
+  "/Users/jakethomaswaller/Library/Autosave Information/Jake's Watch App Tutorial(0)/Jake's Watch App Tutorial/Jake's Watch App Tutorial(0)/Jake's Jisc Jimage/Jake's Jisc Jimage/Jake's 10 Hr Clock/Jake's 10HR Clock/Watch App(0)/Tests/Watch App(0)Tests/Watch_App_0_Tests.swift": !dirty [1603012837, 378452351]
+  "/Users/jakethomaswaller/Library/Autosave Information/Jake's Watch App Tutorial(0)/Jake's Watch App Tutorial/Jake's Watch App Tutorial(0)/Jake's Jisc Jimage/Jake's Jisc Jimage/Jake's 10 Hr Clock/Jake's 10HR Clock/Watch App(0)/Tests/Watch App(0)Tests/XCTestManifests.swift": !dirty [1602998580, 469661038]

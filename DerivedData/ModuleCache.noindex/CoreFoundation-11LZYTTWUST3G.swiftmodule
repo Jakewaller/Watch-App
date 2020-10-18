@@ -1,0 +1,20 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/prebuilt-modules/CoreFoundation.swiftmodule/i386.swiftmodule'
+dependencies:
+  - mtime:           1596771093000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/watchsimulator/prebuilt-modules/CoreFoundation.swiftmodule/i386.swiftmodule'
+    size:            12968
+  - mtime:           1583480782000000000
+    path:            'usr/include/Darwin.apinotes'
+    size:            1133
+    sdk_relative:    true
+  - mtime:           1582411723000000000
+    path:            'usr/include/objc/ObjectiveC.apinotes'
+    size:            11147
+    sdk_relative:    true
+  - mtime:           1583480782000000000
+    path:            'usr/lib/swift/CoreFoundation.swiftmodule/i386.swiftinterface'
+    size:            663
+    sdk_relative:    true
+version:         1
+...

@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4E4863FA42CF11948A0CB9526111E210DCC133DE" : 0,
+    "F08EC560FFE2E96C732B37C24D0076BB7FFFB4B6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AC6F19BD-2696-4EBA-BDAF-FD7B9E09B77E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4E4863FA42CF11948A0CB9526111E210DCC133DE" : "..\/..",
+    "F08EC560FFE2E96C732B37C24D0076BB7FFFB4B6" : "..\/..\/..\/..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Watch App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Watch App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Jakewaller\/Jake-s-Jisc-Jimage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E4863FA42CF11948A0CB9526111E210DCC133DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "JakeWaller",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F08EC560FFE2E96C732B37C24D0076BB7FFFB4B6"
+    }
+  ]
+}
