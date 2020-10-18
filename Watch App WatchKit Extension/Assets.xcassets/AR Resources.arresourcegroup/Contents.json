@@ -3,7 +3,7 @@
     "author" : "xcode",
     "version" : 1
   },
-  "properties" : {
-    "compression-type" : "lossless"
-  }
+  "resources" : [
+
+  ]
 }

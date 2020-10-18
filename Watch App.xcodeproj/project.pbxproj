@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CA615F8F253C346500BC1526 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC92E58253C084500AF9A1F /* ContentView.swift */; };
+		CA615F90253C36A800BC1526 /* Watch_App_1_.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC92E7D253C0B4B00AF9A1F /* Watch_App_1_.swift */; };
+		CA69FF95253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */; };
+		CA69FF96253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */; };
+		CA69FF97253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */; };
+		CA69FF98253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */; };
+		CA69FF9A253C270500CE9B1C /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF99253C270500CE9B1C /* Config.xcconfig */; };
+		CA69FF9B253C270500CE9B1C /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF99253C270500CE9B1C /* Config.xcconfig */; };
+		CA69FF9C253C270500CE9B1C /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF99253C270500CE9B1C /* Config.xcconfig */; };
+		CA69FF9D253C270500CE9B1C /* Config.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF99253C270500CE9B1C /* Config.xcconfig */; };
+		CA69FF9F253C288500CE9B1C /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */; };
+		CA69FFA0253C288500CE9B1C /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */; };
+		CA69FFA1253C288500CE9B1C /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */; };
+		CA69FFA2253C288500CE9B1C /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */; };
 		CAC92E45253C084400AF9A1F /* Watch App WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = CAC92E44253C084400AF9A1F /* Watch App WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		CAC92E4B253C084400AF9A1F /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E49253C084400AF9A1F /* Interface.storyboard */; };
 		CAC92E4D253C084400AF9A1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E4C253C084400AF9A1F /* Assets.xcassets */; };
@@ -18,6 +32,22 @@
 		CAC92E61253C084500AF9A1F /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC92E60253C084500AF9A1F /* NotificationView.swift */; };
 		CAC92E63253C084500AF9A1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E62253C084500AF9A1F /* Assets.xcassets */; };
 		CAC92E66253C084500AF9A1F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E65253C084500AF9A1F /* Preview Assets.xcassets */; };
+		CAC92E7E253C0B4B00AF9A1F /* Watch_App_1_.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAC92E7D253C0B4B00AF9A1F /* Watch_App_1_.swift */; };
+		CAC92E9A253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */; };
+		CAC92E9B253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */; };
+		CAC92E9C253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */; };
+		CAC92E9D253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */; };
+		CAC92E9F253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */; };
+		CAC92EA0253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */; };
+		CAC92EA1253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */; };
+		CAC92EA2253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */; };
+		CAC92EA3253C1C5B00AF9A1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E4C253C084400AF9A1F /* Assets.xcassets */; };
+		CAC92EA4253C1C5C00AF9A1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E4C253C084400AF9A1F /* Assets.xcassets */; };
+		CAC92EA5253C1C5D00AF9A1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAC92E4C253C084400AF9A1F /* Assets.xcassets */; };
+		CAC92EA6253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */; };
+		CAC92EA7253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */; };
+		CAC92EA8253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */; };
+		CAC92EA9253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,13 +93,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		CA69FF99253C270500CE9B1C /* Config.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Config.xcconfig; sourceTree = "<group>"; };
+		CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "nano bot hex dump.ipa"; path = "Nano-Bot-Program-Watch--master-2/nano bot hex dump.ipa"; sourceTree = "<group>"; };
 		CAC92E40253C084300AF9A1F /* Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAC92E44253C084400AF9A1F /* Watch App WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Watch App WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAC92E4A253C084400AF9A1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
 		CAC92E4C253C084400AF9A1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAC92E4E253C084400AF9A1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CAC92E53253C084500AF9A1F /* Watch App WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Watch App WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CAC92E58253C084500AF9A1F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CAC92E58253C084500AF9A1F /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 2415919360; lastKnownFileType = sourcecode.swift; lineEnding = 1; path = ContentView.swift; sourceTree = "<group>"; };
 		CAC92E5A253C084500AF9A1F /* HostingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HostingController.swift; sourceTree = "<group>"; };
 		CAC92E5C253C084500AF9A1F /* ExtensionDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionDelegate.swift; sourceTree = "<group>"; };
 		CAC92E5E253C084500AF9A1F /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
@@ -78,10 +111,25 @@
 		CAC92E65253C084500AF9A1F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CAC92E67253C084500AF9A1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CAC92E68253C084500AF9A1F /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		CAC92E76253C08B400AF9A1F /* Watch App(0) */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Watch App(0)"; path = "../Watch App(0)"; sourceTree = "<group>"; };
+		CAC92E7B253C0B4B00AF9A1F /* Watch App(1).xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Watch App(1).xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAC92E7D253C0B4B00AF9A1F /* Watch_App_1_.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Watch_App_1_.swift; sourceTree = "<group>"; };
+		CAC92E7F253C0B4B00AF9A1F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAC92E87253C146900AF9A1F /* TestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan.xctestplan; sourceTree = "<group>"; };
+		CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Nano-Bot-Program-Watch--master-2"; sourceTree = "<group>"; };
+		CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "nano bot hex dump.ipa"; sourceTree = "<group>"; };
+		CAC92EAA253C1CCA00AF9A1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		CAC92E50253C084500AF9A1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CAC92E78253C0B4B00AF9A1F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -94,8 +142,17 @@
 		CAC92E39253C084300AF9A1F = {
 			isa = PBXGroup;
 			children = (
+				CA69FF94253C26E900CE9B1C /* PushNotificationPayload.apns */,
+				CA69FF99253C270500CE9B1C /* Config.xcconfig */,
+				CAC92E9E253C175E00AF9A1F /* nano bot hex dump.ipa */,
+				CA69FF9E253C288400CE9B1C /* nano bot hex dump.ipa */,
+				CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */,
+				CAC92E99253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 */,
+				CAC92E87253C146900AF9A1F /* TestPlan.xctestplan */,
+				CAC92E76253C08B400AF9A1F /* Watch App(0) */,
 				CAC92E48253C084400AF9A1F /* Watch App WatchKit App */,
 				CAC92E57253C084500AF9A1F /* Watch App WatchKit Extension */,
+				CAC92E7C253C0B4B00AF9A1F /* Watch App(1) */,
 				CAC92E41253C084300AF9A1F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -106,6 +163,7 @@
 				CAC92E40253C084300AF9A1F /* Watch App.app */,
 				CAC92E44253C084400AF9A1F /* Watch App WatchKit App.app */,
 				CAC92E53253C084500AF9A1F /* Watch App WatchKit Extension.appex */,
+				CAC92E7B253C0B4B00AF9A1F /* Watch App(1).xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -123,6 +181,7 @@
 		CAC92E57253C084500AF9A1F /* Watch App WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				CAC92E8D253C15DB00AF9A1F /* Nano-Bot-Watch-Program.ipa */,
 				CAC92E58253C084500AF9A1F /* ContentView.swift */,
 				CAC92E5A253C084500AF9A1F /* HostingController.swift */,
 				CAC92E5C253C084500AF9A1F /* ExtensionDelegate.swift */,
@@ -142,6 +201,22 @@
 				CAC92E65253C084500AF9A1F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CAC92E7C253C0B4B00AF9A1F /* Watch App(1) */ = {
+			isa = PBXGroup;
+			children = (
+				CAC92E7D253C0B4B00AF9A1F /* Watch_App_1_.swift */,
+				CAC92E7F253C0B4B00AF9A1F /* Info.plist */,
+			);
+			path = "Watch App(1)";
+			sourceTree = "<group>";
+		};
+		CAC92E8D253C15DB00AF9A1F /* Nano-Bot-Watch-Program.ipa */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Nano-Bot-Watch-Program.ipa";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,6 +273,23 @@
 			productReference = CAC92E53253C084500AF9A1F /* Watch App WatchKit Extension.appex */;
 			productType = "com.apple.product-type.watchkit2-extension";
 		};
+		CAC92E7A253C0B4B00AF9A1F /* Watch App(1) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CAC92E80253C0B4B00AF9A1F /* Build configuration list for PBXNativeTarget "Watch App(1)" */;
+			buildPhases = (
+				CAC92E77253C0B4B00AF9A1F /* Sources */,
+				CAC92E78253C0B4B00AF9A1F /* Frameworks */,
+				CAC92E79253C0B4B00AF9A1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Watch App(1)";
+			productName = "Watch App(1)";
+			productReference = CAC92E7B253C0B4B00AF9A1F /* Watch App(1).xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -215,6 +307,9 @@
 						CreatedOnToolsVersion = 11.7;
 					};
 					CAC92E52253C084500AF9A1F = {
+						CreatedOnToolsVersion = 11.7;
+					};
+					CAC92E7A253C0B4B00AF9A1F = {
 						CreatedOnToolsVersion = 11.7;
 					};
 				};
@@ -235,6 +330,7 @@
 				CAC92E3F253C084300AF9A1F /* Watch App */,
 				CAC92E43253C084400AF9A1F /* Watch App WatchKit App */,
 				CAC92E52253C084500AF9A1F /* Watch App WatchKit Extension */,
+				CAC92E7A253C0B4B00AF9A1F /* Watch App(1) */,
 			);
 		};
 /* End PBXProject section */
@@ -244,6 +340,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAC92E9F253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */,
+				CA69FF9F253C288500CE9B1C /* nano bot hex dump.ipa in Resources */,
+				CAC92EA6253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */,
+				CAC92E9A253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */,
+				CAC92EA3253C1C5B00AF9A1F /* Assets.xcassets in Resources */,
+				CA69FF9A253C270500CE9B1C /* Config.xcconfig in Resources */,
+				CA69FF95253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,7 +355,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAC92E4D253C084400AF9A1F /* Assets.xcassets in Resources */,
+				CA69FFA0253C288500CE9B1C /* nano bot hex dump.ipa in Resources */,
+				CAC92EA7253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */,
 				CAC92E4B253C084400AF9A1F /* Interface.storyboard in Resources */,
+				CAC92E9B253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */,
+				CAC92EA0253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */,
+				CA69FF9B253C270500CE9B1C /* Config.xcconfig in Resources */,
+				CA69FF96253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,7 +370,28 @@
 			buildActionMask = 2147483647;
 			files = (
 				CAC92E66253C084500AF9A1F /* Preview Assets.xcassets in Resources */,
+				CA69FF97253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */,
+				CA69FFA1253C288500CE9B1C /* nano bot hex dump.ipa in Resources */,
+				CAC92EA8253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */,
 				CAC92E63253C084500AF9A1F /* Assets.xcassets in Resources */,
+				CA69FF9C253C270500CE9B1C /* Config.xcconfig in Resources */,
+				CAC92EA4253C1C5C00AF9A1F /* Assets.xcassets in Resources */,
+				CAC92E9C253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */,
+				CAC92EA1253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CAC92E79253C0B4B00AF9A1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAC92EA2253C175E00AF9A1F /* nano bot hex dump.ipa in Resources */,
+				CA69FFA2253C288500CE9B1C /* nano bot hex dump.ipa in Resources */,
+				CAC92EA9253C1CCA00AF9A1F /* Storyboard.storyboard in Resources */,
+				CAC92E9D253C172200AF9A1F /* Nano-Bot-Program-Watch--master-2 in Resources */,
+				CAC92EA5253C1C5D00AF9A1F /* Assets.xcassets in Resources */,
+				CA69FF9D253C270500CE9B1C /* Config.xcconfig in Resources */,
+				CA69FF98253C26E900CE9B1C /* PushNotificationPayload.apns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,8 +405,18 @@
 				CAC92E5B253C084500AF9A1F /* HostingController.swift in Sources */,
 				CAC92E59253C084500AF9A1F /* ContentView.swift in Sources */,
 				CAC92E5F253C084500AF9A1F /* NotificationController.swift in Sources */,
+				CA615F90253C36A800BC1526 /* Watch_App_1_.swift in Sources */,
 				CAC92E5D253C084500AF9A1F /* ExtensionDelegate.swift in Sources */,
 				CAC92E61253C084500AF9A1F /* NotificationView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CAC92E77253C0B4B00AF9A1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CA615F8F253C346500BC1526 /* ContentView.swift in Sources */,
+				CAC92E7E253C0B4B00AF9A1F /* Watch_App_1_.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +442,14 @@
 				CAC92E4A253C084400AF9A1F /* Base */,
 			);
 			name = Interface.storyboard;
+			sourceTree = "<group>";
+		};
+		CAC92EAB253C1CCA00AF9A1F /* Storyboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAC92EAA253C1CCA00AF9A1F /* Base */,
+			);
+			name = Storyboard.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -531,6 +679,44 @@
 			};
 			name = Release;
 		};
+		CAC92E81253C0B4B00AF9A1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 79GUXX4CB8;
+				INFOPLIST_FILE = "Watch App(1)/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "JakeWallerCorp.Watch-App-1-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CAC92E82253C0B4B00AF9A1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 79GUXX4CB8;
+				INFOPLIST_FILE = "Watch App(1)/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.7;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "JakeWallerCorp.Watch-App-1-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -566,6 +752,15 @@
 			buildConfigurations = (
 				CAC92E74253C084500AF9A1F /* Debug */,
 				CAC92E75253C084500AF9A1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CAC92E80253C0B4B00AF9A1F /* Build configuration list for PBXNativeTarget "Watch App(1)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CAC92E81253C0B4B00AF9A1F /* Debug */,
+				CAC92E82253C0B4B00AF9A1F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -1,0 +1,40 @@
+{
+  "configurations" : [
+    {
+      "id" : "AC7A5FA5-7AD1-4082-82CE-357077ACABC9",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    },
+    {
+      "enabled" : false,
+      "id" : "E40B7DF2-9468-49E6-93D1-C5DE3EF5672D",
+      "name" : "Configuration 2",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testExecutionOrdering" : "random"
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Watch App.xcodeproj",
+        "identifier" : "CAC92E7A253C0B4B00AF9A1F",
+        "name" : "Watch App(1)"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:..\/Watch App(0)",
+        "identifier" : "Watch App(0)Tests",
+        "name" : "Watch App(0)Tests"
+      }
+    }
+  ],
+  "version" : 1
+}
